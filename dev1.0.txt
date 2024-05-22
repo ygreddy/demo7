@@ -1,6 +1,6 @@
 hi rohit bro chill bro 
-<<<<<<< HEAD
+
 hi gm all
 =======
 hi all gm
->>>>>>> 11d755db4be3284eb0795b0b3a03548b6ee2d29b
+
